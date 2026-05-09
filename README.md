@@ -1,3 +1,95 @@
+# 🤖 PrepBot – AI Based Mock Interview System
+
+PrepBot is an AI-powered mock interview platform designed to help students practice interviews, improve communication skills and gain confidence through AI-generated interview questions and evaluations.
+
+---
+
+## 🚀 Features
+
+- 🔐 User Authentication (Login & Signup)
+- 📄 Resume Upload System
+- 🤖 AI-generated interview questions
+- 🎤 Voice recording feature
+- 📝 Text answer submission
+- 📊 AI-based answer evaluation
+- 📈 Performance tracking dashboard
+- 💡 Clean and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+---
+
+## 📸 Project Preview
+
+### 🔑 Login Page
+<img width="1920" height="1020" alt="Screenshot 2026-05-09 164826" src="https://github.com/user-attachments/assets/a65b44c3-d753-4716-839f-237b68bf21e8" />
+
+
+### 📊 Dashboard
+<img width="1920" height="1020" alt="Screenshot 2026-05-09 164935" src="https://github.com/user-attachments/assets/0d140312-1734-4322-9ec2-c99d93b0a8a9" />
+
+
+### 📄 Resume Upload
+<img width="1920" height="1020" alt="Screenshot 2026-05-09 164951" src="https://github.com/user-attachments/assets/733b7b1f-6497-4b67-aa73-4027bf91b125" />
+
+
+### 🎤 AI Interview Interface
+<img width="1920" height="1020" alt="Screenshot 2026-05-09 165025" src="https://github.com/user-attachments/assets/95217790-1dd3-40fc-932b-4be27aa6a97b" />
+
+
+---
+
+## 📂 Project Structure
+
+```bash
+📁 PrepBot
+ ┣ 📁 frontend
+ ┣ 📁 backend
+ ┣ 📄 package.json
+ ┣ 📄 README.md
+```
+
+---
+
+## 🎯 Purpose of Project
+
+This project was built to help students prepare for placements and improve interview performance using AI technology.
+
+PrepBot simulates interview experiences by analyzing resumes, generating questions and evaluating answers automatically.
+
+---
+
+## 🚀 Future Improvements
+
+- 🎥 Video interview support
+- 🧠 Advanced AI feedback system
+- 📈 Detailed analytics dashboard
+- 🌐 Multi-language support
+- 📱 Mobile responsive optimization
+
+---
+
+## 👩‍💻 Author
+
+Akanksha Anil Kulkarni
+
+📫 akankshakulkarni9104@gmail.com
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
